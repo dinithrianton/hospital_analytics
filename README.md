@@ -1,6 +1,6 @@
 # hospital_analytics
 
-This is a data analysis querying and visualization portfolio project to support the Annual Performance Report of the Massachusetts General Hospital, based on the LinkedIn Learning course: Analyze Hospital Patient Encounters and Costs with MySQL (Guided Project) by Maven Analytics, with a publicly licensed dataset, Hospital Patient Records, sourced from SyntheticMass. Included are the SQL code file and the following Tableau Public link to dashboards visualizing the queried data.
+This is a data analysis querying and visualization portfolio project to support the annual performance report of the Massachusetts General Hospital, based on the LinkedIn Learning course Analyze Hospital Patient Encounters and Costs with MySQL (Guided Project) by Maven Analytics, with a publicly licensed dataset, Hospital Patient Records, sourced from SyntheticMass. Included are the SQL code file and the following Tableau Public link to dashboards visualizing the queried data.
 
 https://public.tableau.com/views/AnalysisforMassachusettsGeneralHospitalAnnualPerformanceReport/Procedures?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
