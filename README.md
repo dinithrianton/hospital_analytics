@@ -6,7 +6,7 @@ https://public.tableau.com/views/AnalysisforMassachusettsGeneralHospitalAnnualPe
 
 Tools utilized: SQLite, DB Browser for SQLite, Tableau Desktop Public Edition
 
-Analysis objectives:
+Analysis Objectives:
 
 -- OBJECTIVE 1: ENCOUNTERS OVERVIEW
 
